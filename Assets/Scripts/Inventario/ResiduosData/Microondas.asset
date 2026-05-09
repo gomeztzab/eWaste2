@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 795c71ebbf8a6844c863c7150e543bd1, type: 3}
+  m_Name: Microondas
+  m_EditorClassIdentifier: 
+  nombre: Microondas
+  descripcion: "Calienta comida r\xE1pidamente."
+  utilidadAmbiental: "Degradaci\xF3n: ~200-500 a\xF1os"
+  rareza: Aparatos grandes
+  imagen: {fileID: -3450950990936767799, guid: f5f381f67b0e492479ae3cf22e9b08c0, type: 3}

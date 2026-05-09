@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chico_Tablet_0: -5222026890449994650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

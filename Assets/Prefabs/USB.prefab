@@ -104,8 +104,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tipo: 4
-  escaneado: 0
+  riesgo: 0
+  requiereEscaneo: 0
+  valorPuntos: 10
   velocidad: 2
+  velocidadRegreso: 8
+  escaneado: 0
 --- !u!114 &5585560404858248882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118,6 +122,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71858625f2a3b664a8c68c7afd8c2e0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  suavizado: 15
+  escalaAlArrastrar: 1.2
+  minX: -9
+  maxX: 9
+  minY: -4
+  maxY: 5
 --- !u!61 &831462493450134523
 BoxCollider2D:
   m_ObjectHideFlags: 0

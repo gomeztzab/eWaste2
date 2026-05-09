@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doctor_Parado_0: -1835951716858914153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
