@@ -3,8 +3,8 @@ using TMPro;
 
 public class CronometroJuego : MonoBehaviour
 {
-    // Tiempo inicial del juego (90 segundos)
-    public float tiempoRestante = 90f;
+    // Tiempo inicial del juego (60 segundos)
+    public float tiempoRestante = 60f;
 
     // Texto donde se mostrará el tiempo
     public TextMeshProUGUI textoTiempo;
@@ -37,7 +37,17 @@ public class CronometroJuego : MonoBehaviour
             TerminarJuego();
         }
     }
+    public void SumarTiempo(float cantidad)
+    {
+        tiempoRestante += cantidad;
+    }
+    public void RestarTiempo(float cantidad)
+    {
+        tiempoRestante -= cantidad;
 
+        if (tiempoRestante < 0)
+            tiempoRestante = 0;
+    }
     void TerminarJuego()
     {
         tiempoTerminado = true;
