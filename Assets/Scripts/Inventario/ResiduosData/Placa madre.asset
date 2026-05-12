@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Placa madre
   descripcion: Componente principal de la computadora.
-  utilidadAmbiental: "Degradaci\xF3n: ~500-1000 a\xF1os"
-  rareza: Aparatos electronicos
+  utilidadAmbiental: "~500-1000 a\xF1os"
+  rareza: Electronicos peligrosos
   imagen: {fileID: 3593332087016862261, guid: e34f32f5daa1101438778e59f504b4a3, type: 3}

@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Consola
   descripcion: Equipo para jugar videojuegos.
-  utilidadAmbiental: "Degradaci\xF3n: ~200-1000 a\xF1os"
-  rareza: Rojo
+  utilidadAmbiental: "~200-1000 a\xF1os"
+  rareza: Electronicos peligrosos
   imagen: {fileID: 3638473230501181490, guid: 6b6fb6332e1d7a344b78ea77699f91e9, type: 3}

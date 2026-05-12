@@ -301,6 +301,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 82f43b487876bf24ab9532b0d16ad942, type: 2}
   - {fileID: 11400000, guid: 7a6d6ff8083049048af3f2113a25d1da, type: 2}
   - {fileID: 11400000, guid: 052965546761e924e846a5d8139bad51, type: 2}
+  - {fileID: 11400000, guid: 3464b0c17e4ca9e40b93c8a5222b45ad, type: 2}
+  - {fileID: 11400000, guid: d15911b4fa769764190a2d7e3af143e1, type: 2}
   prefabBoton: {fileID: 6475828249107627214, guid: f22cf8820091ad54c9d7d10b3c71e792, type: 3}
   contenedor: {fileID: 925441864}
   manager: {fileID: 1955809751}
@@ -3111,9 +3113,9 @@ RectTransform:
   - {fileID: 1035243178}
   m_Father: {fileID: 1928598744}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 300, y: -62.5}
   m_SizeDelta: {x: 160, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1175986502
@@ -5026,7 +5028,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1946196933
 RectTransform:
   m_ObjectHideFlags: 0

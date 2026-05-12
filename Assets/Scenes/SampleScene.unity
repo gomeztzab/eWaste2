@@ -924,7 +924,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a66d32ba20870a4b8249e982449e979, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiposAceptados: 0400000001000000020000000300000007000000090000000a0000000b0000000d000000
+  tiposAceptados: 04000000010000000200000003000000090000000a0000000b0000000d000000
 --- !u!1 &225131427
 GameObject:
   m_ObjectHideFlags: 0
@@ -1247,6 +1247,8 @@ MonoBehaviour:
   - {fileID: 346426553337497282, guid: 870b9654b3127c7498964a51a712dbcd, type: 3}
   - {fileID: 4509092291582854822, guid: ccd803b2fd7fcf44b91e500e580a14a4, type: 3}
   - {fileID: 8207656479644526681, guid: 8884731e21a249e4a86549c15f925ca1, type: 3}
+  - {fileID: 2328574432109557376, guid: 68e11447a010dd84c8816462f68818df, type: 3}
+  - {fileID: 9121714829357404026, guid: 9607f13a5c8f4fc479838a00bdb61152, type: 3}
   tiempoSpawn: 1
   posicionSpawn: {x: -11.6, y: 0, z: 0}
   variacionY: 1.3
@@ -4624,7 +4626,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a66d32ba20870a4b8249e982449e979, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiposAceptados: 0c0000000800000000000000
+  tiposAceptados: 0c0000000800000000000000120000001300000007000000
 --- !u!61 &1834868398
 BoxCollider2D:
   m_ObjectHideFlags: 0

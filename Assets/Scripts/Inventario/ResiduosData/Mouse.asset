@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Mouse
   descripcion: Dispositivo para controlar la computadora.
-  utilidadAmbiental: "Degradaci\xF3n: ~100-500 a\xF1os"
-  rareza: Desechos
+  utilidadAmbiental: "~100-500 a\xF1os"
+  rareza: Aparatos grandes
   imagen: {fileID: -357421434760999972, guid: ffc4e4f1cf3751e45949fdc1a7d5e4be, type: 3}

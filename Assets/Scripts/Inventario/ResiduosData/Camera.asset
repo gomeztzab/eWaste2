@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Camara
   descripcion: Captura fotos y videos.
-  utilidadAmbiental: "Degradaci\xF3n: ~100-500 a\xF1os"
-  rareza: Rojo
+  utilidadAmbiental: "~100-500 a\xF1os"
+  rareza: "Dispositivos peque\xF1os"
   imagen: {fileID: -1684449808544159662, guid: 299e4ad0ff5d99c48ba404e6526dd965, type: 3}

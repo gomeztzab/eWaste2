@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Lavadora
   descripcion: "Electrodom\xE9stico para lavar ropa."
-  utilidadAmbiental: "Degradaci\xF3n: ~200-500 a\xF1os"
+  utilidadAmbiental: "~200-500 a\xF1os"
   rareza: Aparatos grandes
   imagen: {fileID: 106061849656693812, guid: 2b5ab3c9afa87bc4c971ccfe6672fd34, type: 3}
