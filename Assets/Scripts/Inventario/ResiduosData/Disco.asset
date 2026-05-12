@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: 'Disco '
   descripcion: "Almacena datos en formato f\xEDsico."
-  utilidadAmbiental: "Degradaci\xF3n: ~100-1000 a\xF1os"
+  utilidadAmbiental: "~100-1000 a\xF1os"
   rareza: Aparatos peligrosos
   imagen: {fileID: -2876280987331274225, guid: 0f651885624d26140978bedffd6b5091, type: 3}

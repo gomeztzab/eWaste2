@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Memoria
   descripcion: Almacenamiento digital compacto.
-  utilidadAmbiental: "Degradaci\xF3n: ~500-1000 a\xF1os"
-  rareza: Desechos reutilizables
+  utilidadAmbiental: "~500-1000 a\xF1os"
+  rareza: "Dispositivos peque\xF1os"
   imagen: {fileID: 1211148599482856316, guid: cb6438ed7d71d73458985daae960cfdd, type: 3}

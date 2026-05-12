@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Refrigerador
   descripcion: "Mantiene alimentos fr\xEDos y frescos."
-  utilidadAmbiental: "Degradaci\xF3n: ~200-500 a\xF1os"
+  utilidadAmbiental: "~200-500 a\xF1os"
   rareza: Aparatos grandes
   imagen: {fileID: 6105394780823931203, guid: 239f319e12f182b48a5ff3a54dcb2eff, type: 3}

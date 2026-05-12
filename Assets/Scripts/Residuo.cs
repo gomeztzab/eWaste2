@@ -20,7 +20,9 @@ public enum TipoResiduo
     Lavadora,
     Licuadora,
     Microondas,
-    Refrigerador
+    Refrigerador,
+    Toner,
+    laptopRota
 }
 
 public enum NivelRiesgo

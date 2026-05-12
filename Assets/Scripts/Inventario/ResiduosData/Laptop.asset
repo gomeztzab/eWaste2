@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 795c71ebbf8a6844c863c7150e543bd1, type: 3}
-  m_Name: Licuadora
+  m_Name: Laptop
   m_EditorClassIdentifier: 
-  nombre: Licuadora
-  descripcion: Tritura y mezcla alimentos.
-  utilidadAmbiental: "~100-500 a\xF1os"
-  rareza: Aparatos grandes
-  imagen: {fileID: 7012674959796283780, guid: 1fa54529a251b7d42baeaf17b6b75294, type: 3}
+  nombre: Laptop (Roto)
+  descripcion: "Computadora port\xE1til de uso personal."
+  utilidadAmbiental: "~100-1000 a\xF1os"
+  rareza: Electronicos peligrosos
+  imagen: {fileID: -8356986903957782358, guid: 76a158285d963d24f93273823beccfe3, type: 3}

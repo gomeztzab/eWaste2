@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: USB
   descripcion: "Memoria port\xE1til de almacenamiento."
-  utilidadAmbiental: "Degradaci\xF3n: ~100-500 a\xF1os"
-  rareza: Aparatos electronicos
+  utilidadAmbiental: "~100-500 a\xF1os"
+  rareza: "Dispositivos peque\xF1os"
   imagen: {fileID: 8909960197485554810, guid: b0f91ecb0764ece4da874a4f643a63c1, type: 3}

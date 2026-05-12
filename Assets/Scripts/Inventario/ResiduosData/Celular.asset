@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Celular
   descripcion: "Dispositivo port\xE1til de comunicaci\xF3n."
-  utilidadAmbiental: "Degradaci\xF3n: ~100-1000 a\xF1os"
-  rareza: No se
+  utilidadAmbiental: "~100-1000 a\xF1os"
+  rareza: "Dispositivos peque\xF1os"
   imagen: {fileID: 8517476582139749314, guid: 7e95d7465f1729b478c6fc7ef9765425, type: 3}

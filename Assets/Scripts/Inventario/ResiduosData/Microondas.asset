@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Microondas
   descripcion: "Calienta comida r\xE1pidamente."
-  utilidadAmbiental: "Degradaci\xF3n: ~200-500 a\xF1os"
+  utilidadAmbiental: "~200-500 a\xF1os"
   rareza: Aparatos grandes
   imagen: {fileID: -3450950990936767799, guid: f5f381f67b0e492479ae3cf22e9b08c0, type: 3}

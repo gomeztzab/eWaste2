@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Bateria
   descripcion: "Fuente port\xE1til de energ\xEDa el\xE9ctrica."
-  utilidadAmbiental: "Degradaci\xF3n: ~100-500 a\xF1os"
+  utilidadAmbiental: "~100-500 a\xF1os"
   rareza: Electronicos peligrosos
   imagen: {fileID: 78920924593357466, guid: 901c66058494be1499b47f8a7185ec96, type: 3}
